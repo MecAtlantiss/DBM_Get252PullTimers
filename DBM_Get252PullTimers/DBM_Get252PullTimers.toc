@@ -1,0 +1,7 @@
+﻿## Interface: 20400
+## Title: |cff0055FFDeadly Boss Mod Get252PullTimers|r
+## Notes: Allows the 2.4.3 version of DBM to detect pull timers from the 2.5.2 version of DBM.
+## RequiredDeps: DBM_API
+## Author: Mec
+
+DBM_Get252PullTimers.lua
